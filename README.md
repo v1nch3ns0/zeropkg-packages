@@ -1,2 +1,3 @@
 # zeropkg-packages
-Basic package repo for zeropkg.
+Repository for the [zeropkg](https://github.com/v1nch3ns0/zeropkg) package manager. Its not an advanced package manager at all but
+it works ok? I mean who needs checksums or versioning anyway ig...
